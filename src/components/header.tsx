@@ -12,7 +12,7 @@ const Header = () => {
         <Link to={"/"}>
             <img
                 src={isDark ? "/logo.png" : "/logo2.png"}
-                alt="HorizonX logo"
+                alt="CloudX logo"
                 className="h-14"
             />
         </Link>

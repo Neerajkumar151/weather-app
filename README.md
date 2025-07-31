@@ -1,4 +1,4 @@
-<div align="center"> <h2><strong>HorizonX - Weather Application</strong></h2> </div>
+<div align="center"> <h2><strong>CloudX - Weather Application</strong></h2> </div>
 
 ## 🌦️ Introduction
 
